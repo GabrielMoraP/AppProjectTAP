@@ -1,0 +1,11 @@
+Caja
+Lata
+Botella Cristal
+Botella Plastico
+Cilindro
+Paquete
+Bolsa de Plastico
+Bolsa de Papel
+Emboltorio
+Barra
+Rollo
